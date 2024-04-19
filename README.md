@@ -1,16 +1,15 @@
 # Hello, I'm Nidhish Vyas 👋
 
-Welcome to my GitHub! I'm currently a Master's student in Computer Science at New Jersey Institute of Technology, deeply passionate about web development and blockchain technology.
+Welcome to my GitHub! I'm currently a Master's student in Computer Science at New Jersey Institute of Technology, deeply passionate about full stack web development.
 
 ## 👨🏻‍💻 About Me:
-- 🔭 I’m currently working as a Software Developer at NJIT FinTech Lab, focusing on decentralized technologies.
-- 🌱 I’m enhancing my skills in Cloud Computing and Mobile Development with technologies like React Native and Flutter.
-- 👯 I’m looking to collaborate on innovative projects in Web Development and Blockchain.
-- 🤔 I’m seeking advice on advanced decentralized systems and secure authentication protocols.
-- 💬 Ask me about anything related to React.js, Node.js, and Blockchain development.
-- 📫 How to reach me: [nv373@njit.edu](mailto:nv373@njit.edu)
+- 🔭 I’m currently working as a Software Developer at NJIT FinTech Lab where I focus on blockchain integration using Hyperledger Aries and developing mobile applications with React Native.
+- 👯 I’m eager to collaborate on innovative projects involving advanced software development.
+]- 💬 Feel free to ask me about my experience in full-stack development, especially with MERN stack and my transition from intern to software developer in high-impact environments.
+- 📫 Reach out to me via email: [nv373@njit.edu](mailto:nv373@njit.edu)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid problem solver and love to engage in competitive programming during my free time.
+- ⚡ Fun fact: Outside of programming, I’m passionate about problem solving and have been actively involved in competitive programming and community-building through technology.
+
 
 ## 🛠 Technical Skills:
 - **Programming Languages:** Java, Python, C, C++, JavaScript, TypeScript, PHP

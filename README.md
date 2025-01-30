@@ -11,12 +11,13 @@ I am a Master's student in Computer Science at NJIT. I have experience as a Soft
 - ⚡ Fun fact: I’m passionate about problem-solving and have actively participated in competitive programming and community-building through technology.
 
 ## 🛠 Technical Skills:
-- **Programming Languages:** Java, Python, C, C++, JavaScript, TypeScript, PHP
-- **Web Development:** React.js, Angular, Bootstrap, CSS, HTML, Next.js, Express.js, Django, Flask, WordPress
+- **Programming Languages:** Java, Python, C, C++, JavaScript, TypeScript, R Program
+- **Web Development:** ReactJS, NodeJS, Bootstrap, CSS, HTML, Angular, NextJS, Express, AngularJS, Django
 - **Mobile Development:** React Native, Flutter
-- **Databases:** MongoDB, SQL Server, MySQL, PostgreSQL, SQLite
-- **Web Services/Platforms:** AWS, Azure, Google Cloud Platform, Firebase, Heroku, Digital Ocean, Netlify
-- **Tools:** Git, GitHub, Android Studio, VS Code, Figma, Jenkins, Linux, Wireshark, Automated Testing
+- **Databases:** MongoDB, SQL Server, MySQL, PostgreSQL
+- **Web Services/Platforms:** Firebase, Cloud Computing (AWS, Google Cloud Platform), Postman, Google Colab, Jupyter Notebook, Heroku, Digital Ocean
+- **Tools:** Git, GitHub, Docker, Android Studio, VS Code, Linux, Wireshark, Figma, Jenkins
+- **Soft Skills:** Communication, Technical Leadership, Innovation, Strategic Thinking, Accountability
 
 ## 📈 GitHub Stats:
 ![Nidhish Vyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NidhishVyas&show_icons=true&theme=vue)
@@ -25,20 +26,23 @@ I am a Master's student in Computer Science at NJIT. I have experience as a Soft
 
 ## 💼 Work Experience:
 - **NJIT FinTech Lab, Software Developer** *(January 2024 - Present)*
-  - Developed a DIDComm exchange for direct communication between a web application and a mobile app, enabling decentralized maintenance of vehicle credentials.
-  - Implemented a credential issuing entity and verifier using Zero-Knowledge Proofs for secure authentication.
-  - Designed and implemented a user-friendly mobile interface to streamline vehicle credential management and network interactions.
-  - Utilized React Native, TypeScript, and Hyperledger Aries (Bifold) to ensure a stable, reliable, and cross-platform user experience.
+  - Achieved secure and efficient communication by implementing DIDComm protocols to enable seamless web-tomobile interaction, leveraging blockchain technology and decentralized identity for enhanced functionality
+  - Deployed a credential issuing entity and verifier using Zero-Knowledge Proofs for secure authentication
+  - Achieved enhanced operational efficiency and data accuracy by streamlining vehicle transactions with real-time updates and automated workflows, significantly improving the overall user experience and reliability
+  - Increased user satisfaction and platform stability by developing innovative React Native apps and blockchain-based solutions using React Native, TypeScript, and Hyperledger Aries (Bifold), ensuring seamless application functionality
+  - Integrated the FHWA-EAR Program into Master’s Project for exploration of advanced technologies
   
 - **Pushpak Rail Construction Pvt. Ltd., Web Developer and UI/UX Designer Intern** *(April 2022 - October 2022)*
-  - Contributed as a full-stack developer and UI/UX designer intern to a farmhouse booking website project, focusing on both front-end and backend development.
-  - Designed a user-friendly interface for seamless farmhouse bookings and comprehensive information access, along with detailed admin statistics.
-  - Implemented the website using the MERN stack and led the post-development deployment process, including domain acquisition, deployment management, and ongoing website maintenance.
+  - Led as a full stack developer and UI/UX designer intern by designing and implementing a farmhouse booking website, focusing on front-end and back-end development to enhance functionality and user experience
+  - Increased farmhouse bookings by 13% through a user-friendly interface and streamlined information access, providing detailed admin statistics to enhance decision-making and operational efficiency
+  - Transformed a Figma design into a fully functional web-based application by leveraging the MERN stack, enhancing user experience, enabling real-time updates, and improving application responsiveness and usability
+  - Managed the post-development deployment process by overseeing domain acquisition, deployment management, and continuous maintenance using Git, achieving a 30% increase in website traffic and a 50% reduction in loading time
+
 
 ## 🎓 Education:
 - **New Jersey Institute of Technology**
-  - Master of Science in Computer Science, Expected May 2025
-- **SIES Graduate School of Technology, University of Mumbai**
+  - Master of Science in Computer Science, May 2025
+- **University of Mumbai**
   - Bachelor of Engineering in Information Technology, May 2023
 
 ## 📫 How to reach me:

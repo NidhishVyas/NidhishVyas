@@ -25,7 +25,7 @@ I am a Master's student in Computer Science at NJIT. I have experience as a Soft
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NidhishVyas&theme=vue)
 
 ## 💼 Work Experience:
-- **NJIT FinTech Lab, Software Developer** *(January 2024 - Present)*
+- **NJIT FinTech Lab, Software Developer** *(January 2024 - October 2024)*
   - Achieved secure and efficient communication by implementing DIDComm protocols to enable seamless web-tomobile interaction, leveraging blockchain technology and decentralized identity for enhanced functionality
   - Deployed a credential issuing entity and verifier using Zero-Knowledge Proofs for secure authentication
   - Achieved enhanced operational efficiency and data accuracy by streamlining vehicle transactions with real-time updates and automated workflows, significantly improving the overall user experience and reliability

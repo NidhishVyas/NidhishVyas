@@ -1,50 +1,63 @@
-# Hello, I'm Nidhish Vyas 👋
+# 👋 Hello, I'm Nidhish Vyas
 
-I am a Master's student in Computer Science at NJIT. I have experience as a Software Developer at NJIT's FinTech Lab, where I developed decentralized vehicle credential systems, and as a Web Developer/UI/UX Designer Intern at Pushpak Rail Construction Pvt. Ltd. My skills include programming in Java, Python, and JavaScript, along with expertise in web and mobile development technologies. I am proficient in React Native and the MERN stack, enabling me to build robust and user-friendly applications. I am eager to apply my knowledge and skills in new and challenging projects.
+I'm a graduate student pursuing an M.S. in Computer Science at NJIT, with a strong foundation in software engineering and a passion for building scalable, impactful solutions. My professional journey includes backend and full-stack development, blockchain-integrated systems, and process automation. I specialize in modern tech stacks like React, FastAPI, Docker, and AWS, and have hands-on experience deploying real-world applications across web and mobile platforms.
 
-## 👨🏻‍💻 About Me:
-- 🔭 I’m currently working as a Software Developer at NJIT FinTech Lab where I focus on developing decentralized systems for vehicle credentials using Hyperledger Aries and React Native.
-- 👯 I’m eager to collaborate on innovative projects involving advanced software development, especially in areas of blockchain, zero-knowledge proofs, and mobile development.
-- 💬 Feel free to ask me about my experience in full-stack development, particularly with the MERN stack, and my transition from an intern to a software developer in high-impact environments.
-- 📫 Reach out to me via email: [nv373@njit.edu](mailto:nv373@njit.edu)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m passionate about problem-solving and have actively participated in competitive programming and community-building through technology.
+## 👨‍💻 About Me
+- 🔧 Currently a Software Developer at **NJIT FinTech Lab**, implementing secure blockchain-based vehicle credential systems and decentralized identity solutions.
+- 🚀 Passionate about full-stack development, system architecture, decentralized applications, and real-time data automation.
+- 🤝 Open to collaborations on impactful projects involving modern web development, cloud integration, and scalable microservices.
+- 📫 Reach me at: [nidhishmvyas@gmail.com](mailto:nidhishmvyas@gmail.com)
 
-## 🛠 Technical Skills:
-- **Programming Languages:** Java, Python, C, C++, JavaScript, TypeScript, R Program
-- **Web Development:** ReactJS, NodeJS, Bootstrap, CSS, HTML, Angular, NextJS, Express, AngularJS, Django
-- **Mobile Development:** React Native, Flutter
-- **Databases:** MongoDB, SQL Server, MySQL, PostgreSQL
-- **Web Services/Platforms:** Firebase, Cloud Computing (AWS, Google Cloud Platform), Postman, Google Colab, Jupyter Notebook, Heroku, Digital Ocean
-- **Tools:** Git, GitHub, Docker, Android Studio, VS Code, Linux, Wireshark, Figma, Jenkins
-- **Soft Skills:** Communication, Technical Leadership, Innovation, Strategic Thinking, Accountability
+## 💼 Work Experience
 
-## 📈 GitHub Stats:
-![Nidhish Vyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NidhishVyas&show_icons=true&theme=vue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhishVyas&layout=compact&theme=vue)
+**NJIT FinTech Lab – Software Developer**  
+*Jan 2024 – Oct 2024 | Newark, NJ*  
+- Engineered secure web-to-mobile communication using DIDComm protocols and decentralized identity solutions.  
+- Built blockchain-integrated mobile apps using **React Native**, **TypeScript**, and **Hyperledger Aries (Bifold)**.  
+- Deployed **Zero-Knowledge Proof**-based credential issuers and verifiers, improving transaction trust and efficiency.
+
+**Pushpak Rail Constructions – Full-Stack Developer, Procurement & Data Automation**  
+*Dec 2022 – May 2023 | Mumbai, India*  
+- Developed a real-time procurement platform using **React.js**, **Flask**, and **AWS** services, cutting bid estimation time by 50%.  
+- Automated backend workflows with **Apache Airflow** and **AWS Glue**, reducing manual effort by 60%.  
+- Built CI/CD pipelines using **Docker** and **GitHub Actions**, leading to a 40% increase in automation.
+
+**Pushpak Rail Constructions – Full-Stack Developer Intern**  
+*Jun 2022 – Dec 2022*  
+- Designed and built a **MERN-stack** farmhouse booking platform with real-time updates and increased bookings by 13%.  
+- Managed domain setup, Git-based deployments, and maintenance to improve UX and site performance.
+
+## 🧠 Academic Projects
+
+**User Management System** *(Python, FastAPI, PostgreSQL, Docker)*  
+- Production-grade backend with OAuth2 authentication, Alembic migrations, and 113 Pytest test cases.  
+- Dockerized, CI/CD-enabled via GitHub Actions, ensuring reliability and deployment speed.
+
+**Modular Calculator Application** *(Python, Pandas, NumPy, Pytest)*  
+- Plugin-based architecture with test-driven development and logging for scalability and maintainability.
+
+**College Student Portal** *(MERN Stack)*  
+- Achieved 15K+ visits and 2.5K+ active users through robust architecture and strategic engagement.
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, TypeScript, Java, Python, R  
+**Frontend:** ReactJS, Next.js, Angular, Bootstrap, HTML/CSS  
+**Backend:** NodeJS, FastAPI, Django, Flask, REST APIs  
+**Databases & Cloud:** PostgreSQL, MongoDB, Firebase, AWS, GCP, DynamoDB  
+**DevOps & Tools:** Docker, GitHub Actions, Kubernetes, Terraform, Jenkins, Git, Figma  
+**Methodologies:** Agile, Scrum, CI/CD, 12-Factor App, Version Control
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NidhishVyas&show_icons=true&theme=vue)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhishVyas&layout=compact&theme=vue)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NidhishVyas&theme=vue)
 
-## 💼 Work Experience:
-- **NJIT FinTech Lab, Software Developer** *(January 2024 - October 2024)*
-  - Achieved secure and efficient communication by implementing DIDComm protocols to enable seamless web-tomobile interaction, leveraging blockchain technology and decentralized identity for enhanced functionality
-  - Deployed a credential issuing entity and verifier using Zero-Knowledge Proofs for secure authentication
-  - Achieved enhanced operational efficiency and data accuracy by streamlining vehicle transactions with real-time updates and automated workflows, significantly improving the overall user experience and reliability
-  - Increased user satisfaction and platform stability by developing innovative React Native apps and blockchain-based solutions using React Native, TypeScript, and Hyperledger Aries (Bifold), ensuring seamless application functionality
-  - Integrated the FHWA-EAR Program into Master’s Project for exploration of advanced technologies
-  
-- **Pushpak Rail Construction Pvt. Ltd., Web Developer and UI/UX Designer Intern** *(April 2022 - October 2022)*
-  - Led as a full stack developer and UI/UX designer intern by designing and implementing a farmhouse booking website, focusing on front-end and back-end development to enhance functionality and user experience
-  - Increased farmhouse bookings by 13% through a user-friendly interface and streamlined information access, providing detailed admin statistics to enhance decision-making and operational efficiency
-  - Transformed a Figma design into a fully functional web-based application by leveraging the MERN stack, enhancing user experience, enabling real-time updates, and improving application responsiveness and usability
-  - Managed the post-development deployment process by overseeing domain acquisition, deployment management, and continuous maintenance using Git, achieving a 30% increase in website traffic and a 50% reduction in loading time
+## 🎓 Education
+**New Jersey Institute of Technology** – M.S. in Computer Science *(May 2025)*  
+**University of Mumbai** – B.E. in Information Technology *(May 2023)*
 
-
-## 🎓 Education:
-- **New Jersey Institute of Technology**
-  - Master of Science in Computer Science, May 2025
-- **University of Mumbai**
-  - Bachelor of Engineering in Information Technology, May 2023
-
-## 📫 How to reach me:
-- LinkedIn: [Nidhish Vyas](https://www.linkedin.com/in/nidhish-vyas/)
-- Email: [nv373@njit.edu](mailto:nv373@njit.edu)
+## 🔗 Let’s Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nidhish-vyas/)
+- 🌐 [Portfolio](https://www.nidhishvyas.com)
+- 📧 [Email](mailto:nidhishmvyas@gmail.com)

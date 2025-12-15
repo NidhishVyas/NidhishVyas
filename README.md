@@ -32,7 +32,6 @@ Agile & Scrum, CI/CD, 12-Factor App Methodology, Test-Driven Development, System
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NidhishVyas&show_icons=true&theme=vue) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhishVyas&layout=compact&theme=vue) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NidhishVyas&theme=vue)
 
 ---
 

@@ -30,8 +30,8 @@ Agile & Scrum, CI/CD, 12-Factor App Methodology, Test-Driven Development, System
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats-vercel-seven-alpha.vercel.app/api?username=NidhishVyas&show_icons=true&theme=vue)
-![Top Languages](https://github-readme-stats-vercel-seven-alpha.vercel.app/api/top-langs/?username=NidhishVyas&layout=compact&theme=vue)
+![GitHub Stats](https://github-readme-stats-vercel-seven-alpha.vercel.app/api?username=NidhishVyas&show_icons=true&theme=vue&v=1)
+![Top Languages](https://github-readme-stats-vercel-seven-alpha.vercel.app/api/top-langs/?username=NidhishVyas&layout=compact&theme=vue&v=1)
 
 ---
 

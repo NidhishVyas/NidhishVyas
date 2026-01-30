@@ -33,8 +33,6 @@ Agile & Scrum, CI/CD, 12-Factor App Methodology, Test-Driven Development, System
 ![GitHub Stats](https://github-readme-stats-vercel-seven-alpha.vercel.app/api?username=NidhishVyas&show_icons=true&theme=vue)
 ![Top Languages](https://github-readme-stats-vercel-seven-alpha.vercel.app/api/top-langs/?username=NidhishVyas&layout=compact&theme=vue)
 
-
-
 ---
 
 ## 🔗 Let’s Connect
